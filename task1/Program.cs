@@ -12,5 +12,5 @@ if (a>b)
 }
 else
 {
-    System.Console.WriteLine($"{b} большее, {a} меньшее");
+    System.Console.WriteLine($"{b} большее, {a} меньшее" );
 }
